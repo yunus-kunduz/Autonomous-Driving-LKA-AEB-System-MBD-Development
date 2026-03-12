@@ -42,8 +42,11 @@ To ensure deterministic communication and data integrity (essential for ISO 2626
 ![Simulink Architecture](assets/simulink-ego-pose-bus-architecture.png)
 *Figure 3: Signal routing and Bus Management architecture in Simulink.*
 
+---
+
 ![Systems Engineering Approach](assets/system-engineering-v-model.png)
 *Figure 4: The development lifecycle from SFR (System Functional Review) to SVR (System Verification Review).*
+
 ---
 
 ## 💻 Core Algorithms
