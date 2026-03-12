@@ -1,0 +1,27 @@
+# MATLAB/Simulink .gitignore
+
+# Simulink Önbellek Dosyaları (En önemlisi)
+*.slxc
+
+# MATLAB Otomatik Kayıt Dosyaları
+*.asv
+
+# Simulink Proje Oluşturma Klasörü (Kod üretimi ve simülasyon artıkları)
+slprj/
+
+# Derlenmiş MEX Dosyaları
+*.mex*
+
+# MATLAB Günlük (Log) Dosyaları
+*.log
+
+# Simülasyon Veri Müfettişi (SDI) Dosyaları
+*.mldatx
+
+# MATLAB Workspace Kayıtları (Eğer genelse)
+# Not: Senin pist senaryoların (.mat) önemli olduğu için klasör bazlı izin vereceğiz.
+# *.mat 
+
+# macOS ve Windows Sistem Dosyaları
+.DS_Store
+Thumbs.db
